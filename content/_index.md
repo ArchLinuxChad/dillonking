@@ -5,7 +5,7 @@ title = "Dillon King's Internet Home"
 # Website about GNU/Linux and my GNU/Life
 Hello, welcome to my website. Here I make posts about one of my favourite things, Linux.
 
-# My problems with Modern Society and Life
+# My problems with Modern Society
 I also talk about the problems I have with how modern society runs and works.
 
 # Politics
